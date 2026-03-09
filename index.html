@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FutureFeed | חדשות בינה מלאכותית עתידניות</title>
+    <meta name="description" content="תקצירי חדשות אוטומטיים בנושאי בינה מלאכותית ממקורות מובילים, מוגשים בעיצוב עתידני.">
+    <!-- Google Fonts: Roboto & Orbitron for futuristic touch -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;600;700&family=Orbitron:wght@500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="particles-bg"></div>
+    <div class="glow-orb orb-1"></div>
+    <div class="glow-orb orb-2"></div>
+    
+    <header class="app-header">
+        <div class="container header-content">
+            <h1 class="logo">Future<span>Feed</span></h1>
+            <p class="subtitle">הזנה עתידנית לחדשות בינה מלאכותית</p>
+            <div class="last-updated" id="last-updated">מעדכן נתונים...</div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="loader-container" id="loader">
+            <div class="cyber-loader"></div>
+            <p>טוען את עתיד המידע...</p>
+        </div>
+
+        <div class="content-grid" id="content-grid" style="display: none;">
+            <!-- Sections will be injected dynamically -->
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 FutureFeed - מופעל אוטומטית באמצעות GitHub Actions ו-GitHub Models</p>
+        </div>
+    </footer>
+
+    <!-- Template for category sections -->
+    <template id="category-template">
+        <section class="category-section">
+            <div class="category-header">
+                <h2></h2>
+                <div class="header-line"></div>
+            </div>
+            <div class="cards-container"></div>
+        </section>
+    </template>
+
+    <!-- Template for news cards -->
+    <template id="news-card-template">
+        <article class="news-card glass-panel">
+            <div class="card-glow"></div>
+            <div class="card-content">
+                <span class="source-badge"></span>
+                <h3 class="card-title"></h3>
+                <p class="card-summary"></p>
+                <div class="card-footer">
+                    <span class="publish-date"></span>
+                    <a href="" target="_blank" rel="noopener noreferrer" class="read-more">קרא את המקור <span class="arrow">←</span></a>
+                </div>
+            </div>
+        </article>
+    </template>
+
+    <script src="script.js"></script>
+</body>
+</html>
