@@ -1,142 +1,182 @@
 [
   {
-    "id": "-1095248973019650431",
-    "title": "OpenAI סוגרת את סורה בעוד שמטא נתקלת בקשיים בבית המשפט",
-    "original_title": "OpenAI shuts down Sora while Meta gets shut out in court",
-    "summary": "חברת OpenAI סגרה את פרויקט סורה, בעוד שמטא נתקלה בקשיים משפטיים. המאמר מתאר את המתח בין התפשטות תשתיות AI בעולם האמיתי לבין התנגדויות מצד הקהילה המקומית, כולל מקרה שבו אישה בת 82 סירבה למכור את אדמתה לחברת AI שביקשה להקים מרכז נתונים.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
-    "published": "2026-03-27T13:30:00",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "6254173273553494439",
-    "title": "כעת ניתן להעביר שיחות ומידע אישי מבוטים אחרים ישירות ל-Gemini",
-    "original_title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-    "summary": "גוגל משיקה כלים חדשים המאפשרים למשתמשים להעביר שיחות ומידע אישי מבוטים אחרים ישירות ל-Gemini, מה שמקל על המעבר בין פלטפורמות.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
-    "published": "2026-03-26T23:47:56",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "3234540888343616113",
-    "title": "ויקיפדיה מגבילה את השימוש בבינה מלאכותית בכתיבת ערכים",
-    "original_title": "Wikipedia cracks down on the use of AI in article writing",
-    "summary": "ויקיפדיה נוקטת צעדים להגבלת השימוש בבינה מלאכותית בכתיבת ערכים, בעקבות התמודדות עם בעיות הקשורות לטקסטים שנוצרו על ידי AI. המדיניות עשויה להשתנות בעתיד.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
-    "published": "2026-03-26T21:50:10",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "748580874970640143",
-    "title": "OpenAI נוטשת פרויקט צד נוסף: מצב ארוטי ל-ChatGPT",
-    "original_title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-    "summary": "חברת OpenAI החליטה להפסיק את הפיתוח של מצב ארוטי עבור ChatGPT, אחד ממספר פרויקטים צדדיים שהחברה נטשה בשבוע האחרון.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-    "published": "2026-03-26T18:34:02",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "-2744425184884698778",
-    "title": "RPA חשוב, אך AI משנה את אופן הפעולה של האוטומציה",
-    "original_title": "RPA matters, but AI changes how automation works",
-    "summary": "המאמר עוסק בשילוב של אוטומציה רובוטית של תהליכים (RPA) עם מערכות בינה מלאכותית. בעוד ש-RPA מתמקדת באוטומציה של משימות חוזרות ונשנות על בסיס כללים קבועים, שילוב של AI משנה את אופן הפעולה של האוטומציה ומאפשר גמישות ויכולת להתמודד עם משימות מורכבות יותר. המאמר מדגיש את ההשפעה של בינה מלאכותית על תחום האוטומציה בעסקים.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
-    "published": "2026-03-26T09:11:08",
-    "source": "AI News"
-  },
-  {
-    "id": "-5067577711750610999",
-    "title": "Ocorian: משרדי משפחה פונים לבינה מלאכותית לתובנות נתונים פיננסיים",
-    "original_title": "Ocorian: Family offices turn to AI for financial data insights",
-    "summary": "מחקר חדש של Ocorian מגלה כי 86 אחוז ממשרדי משפחה ברחבי העולם משתמשים בבינה מלאכותית לשיפור תפעול יומיומי וניתוח נתונים פיננסיים. משרדים אלו, המייצגים עושר משותף של 119.37 מיליארד דולר, פונים ללמידת מכונה כדי לייעל את פעילותם.",
-    "category": "עסקים (מיזוגים, רכישות ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
-    "published": "2026-03-25T14:58:29",
-    "source": "AI News"
-  },
-  {
-    "id": "3877680511283511671",
-    "title": "סוכני AI נכנסים לתפקידי ייעוץ בבנק אוף אמריקה",
-    "original_title": "AI agents enter banking roles at Bank of America",
-    "summary": "בנק אוף אמריקה החל לשלב סוכני AI בפלטפורמת ייעוץ פנימית המיועדת ליועצים פיננסיים. המערכת, המופעלת על ידי בינה מלאכותית, נפרסה לכ-1,000 יועצים פיננסיים במטרה לשפר את האינטראקציה עם לקוחות ולספק ייעוץ פיננסי מדויק יותר.",
-    "category": "מודלי AI",
-    "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
-    "published": "2026-03-25T10:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-4887317981157770661",
-    "title": "אוטומציה של תהליכי עבודה פיננסיים מורכבים עם AI מולטימודלי",
-    "original_title": "Automating complex finance workflows with multimodal AI",
-    "summary": "מנהיגים בתחום הפיננסים מאמצים מסגרות AI מולטימודליות חדשות כדי לאוטומט תהליכי עבודה מורכבים. מסגרות אלו מתמודדות עם אתגרים כמו חילוץ טקסט ממסמכים לא מובנים, בעיה שהייתה קשה לפתרון עם מערכות OCR מסורתיות. הטכנולוגיה החדשה מאפשרת להתמודד עם פריסות מורכבות, קבצים רב-עמודיים ותמונות בצורה מדויקת יותר.",
-    "category": "מודלי AI",
-    "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
-    "published": "2026-03-24T17:03:48",
-    "source": "AI News"
-  },
-  {
-    "id": "-4030983018818298404",
-    "title": "אבטחת מערכות AI בתנאים של היום ושל המחר",
-    "original_title": "Securing AI systems under today’s and tomorrow’s conditions",
-    "summary": "ספר אלקטרוני בשם 'AI Quantum Resilience' שפורסם על ידי Utimaco מציג עדויות לכך שארגונים רואים בסיכוני אבטחה את המחסום המרכזי לאימוץ יעיל של AI על נתונים שבידיהם. הערך של AI תלוי בנתונים שנאספו על ידי הארגון, אך קיימים סיכוני אבטחה בבניית מודלים ואימונם על נתונים אלה.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
-    "published": "2026-03-24T15:22:00",
-    "source": "AI News"
-  },
-  {
-    "id": "8711892316277409485",
-    "title": "פלנטיר AI יתמוך בפעילות הפיננסית בבריטניה",
-    "original_title": "Palantir AI to support UK finance operations",
-    "summary": "רשויות בבריטניה מאמינות כי שיפור היעילות במערכות הפיננסיות הלאומיות דורש יישום פלטפורמות AI מספקים כמו פלנטיר. הרגולטור הפיננסי של המדינה, ה-FCA, השיק פרויקט המשתמש ב-AI לזיהוי פעילויות בלתי חוקיות. במסגרת הפיילוט, ה-FCA בוחן את פלטפורמת Foundry של חברת פלנטיר.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/",
-    "published": "2026-03-23T13:14:23",
-    "source": "AI News"
-  },
-  {
-    "id": "-6104731993877995992",
-    "title": "ויזה מכינה מערכות תשלום ליוזמות תשלום על ידי סוכני AI",
-    "original_title": "Visa prepares payment systems for AI agent-initiated transactions",
-    "summary": "חברת ויזה בוחנת כיצד סוכני AI יכולים ליזום תשלומים באופן עצמאי, דבר שעשוי לשנות את המודל המסורתי של תשלומים שבו אדם יוזם את הרכישה. העבודה החדשה במגזר הבנקאות מצביעה על כך שתוכנות חכמות עשויות למלא תפקיד מרכזי בתהליך זה בעתיד.",
-    "category": "פרויקטים ואלגוריתמים מעניינים",
-    "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
-    "published": "2026-03-19T10:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-4621165419863123351",
-    "title": "NVIDIA רוצה שסוכני AI ארגוניים יהיו בטוחים יותר לשימוש",
-    "original_title": "NVIDIA wants enterprise AI agents safer to deploy",
-    "summary": "חברת NVIDIA הכריזה על ערכת הכלים Agent Toolkit, שמטרתה לסייע לארגונים לפרוס סוכני AI בצורה בטוחה יותר תוך שמירה על שליטה בנתונים ואחריות. ערכת הכלים, שהוכרזה בכנס GTC 2026, היא תוכנה בקוד פתוח שנועדה להתמודד עם אתגרים של אבטחת מידע ופרטיות בסביבות ארגוניות.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
-    "published": "2026-03-19T08:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-8099461492640207102",
-    "title": "מאסטרקארד עוקבת אחר הונאות עם מודל בסיסי חדש",
-    "original_title": "Mastercard keeps tabs on fraud with new foundation model",
-    "summary": "חברת מאסטרקארד פיתחה מודל טבלאי גדול (LTM) שמאומן על נתוני עסקאות במקום על טקסטים או תמונות, במטרה להתמודד עם בעיות אבטחה ואותנטיות בתשלומים דיגיטליים. המודל אומן על מיליארדי עסקאות כרטיסים ומתוכנן להתרחב למאות מיליונים נוספים.",
-    "category": "מודלי AI",
-    "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
-    "published": "2026-03-18T15:31:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-272177184039787040",
-    "title": "כדי ליישם בינה מלאכותית ביעילות, תעשיית הביטוח צריכה לסדר את נתוניה",
-    "original_title": "For effective AI, insurance needs to get its data house in order",
-    "summary": "דוח של חברת Autorek, ספקית פתרונות AI לתעשיית הביטוח, מתאר עיכובים תפעוליים בתהליכים פנימיים של חברות ביטוח. עיכובים אלו לא רק פוגעים ביעילות הכוללת, אלא גם מהווים מכשול ליישום אפקטיבי של AI בתחום הביטוח.",
+    "id": "-4868756472644470310",
+    "title": "שינויים בהנהלת OpenAI כוללים תפקיד חדש לסמנכ\"ל התפעול בראד לייטקאפ לניהול 'פרויקטים מיוחדים'",
+    "original_title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+    "summary": "חברת OpenAI הודיעה על שינויים בהנהלה, כולל מינויו של סמנכ\"ל התפעול, בראד לייטקאפ, לתפקיד חדש של ניהול 'פרויקטים מיוחדים'. בנוסף, סמנכ\"לית השיווק, קייט ראוץ', תעזוב זמנית את החברה כדי להתמקד בהחלמה מסרטן, עם תוכנית לחזור כאשר מצבה הבריאותי יאפשר זאת.",
     "category": "עסקים",
-    "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
-    "published": "2026-03-18T14:37:00",
+    "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+    "published": "2026-04-03T20:35:34",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "8525809189461730018",
+    "title": "Anthropic רוכשת את סטארטאפ הביוטכנולוגיה Coefficient Bio בעסקה של 400 מיליון דולר: דיווחים",
+    "original_title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+    "summary": "חברת Anthropic רכשה את חברת הסטארטאפ הביוטכנולוגית Coefficient Bio, המתמקדת ב-AI, בעסקת מניות בשווי 400 מיליון דולר, לפי דיווחים.",
+    "category": "עסקים (מיזוגים, רכישות ועוד)",
+    "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+    "published": "2026-04-03T20:28:40",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-9031404820203222456",
+    "title": "Anthropic מגבירה את פעילותה הפוליטית עם הקמת PAC חדש",
+    "original_title": "Anthropic ramps up its political activities with a new PAC",
+    "summary": "חברת Anthropic מגבירה את פעילותה הפוליטית על ידי הקמת ועדת פעולה פוליטית (PAC) חדשה, במטרה לתמוך במועמדים התומכים באג'נדה המדינית של החברה בתחום הבינה המלאכותית.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+    "published": "2026-04-03T20:22:18",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-5861019619343275105",
+    "title": "חברות AI בונות תחנות כוח גדולות המונעות בגז טבעי להפעלת מרכזי נתונים. מה עלול להשתבש?",
+    "original_title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+    "summary": "חברות כמו מטא, מיקרוסופט וגוגל משקיעות בהקמת תחנות כוח חדשות המונעות בגז טבעי כדי להפעיל מרכזי נתונים עבור מערכות הבינה המלאכותית שלהן. המהלך מעורר שאלות לגבי ההשלכות הסביבתיות והכלכליות של החלטה זו.",
+    "category": "עסקים (מיזוגים, רכישות ועוד)",
+    "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+    "published": "2026-04-03T19:48:22",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "3707823976755437637",
+    "title": "המקור מפייסבוק שבונה ניהול תוכן לעידן הבינה המלאכותית",
+    "original_title": "The Facebook insider building content moderation for the AI era",
+    "summary": "חברת Moonbounce גייסה 12 מיליון דולר לפיתוח מנוע בקרה מבוסס בינה מלאכותית שמתרגם מדיניות ניהול תוכן להתנהגות עקבית וצפויה של מערכות AI.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+    "published": "2026-04-03T14:00:15",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-9031396705951995365",
+    "title": "מיקרוסופט מתמודדת עם יריבות בתחום הבינה המלאכותית עם שלושה מודלים בסיסיים חדשים",
+    "original_title": "Microsoft takes on AI rivals with three new foundational models",
+    "summary": "מיקרוסופט השיקה שלושה מודלים בסיסיים חדשים שיכולים לתמלל קול לטקסט, לייצר אודיו וליצור תמונות, כחלק מהמאמצים שלה להתחרות בשוק הבינה המלאכותית לאחר שישה חודשים מהקמת הקבוצה.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "published": "2026-04-02T16:48:16",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-5212893761983965506",
+    "title": "KiloClaw מכוון ל-AI צללים עם ממשל סוכנים אוטונומיים",
+    "original_title": "KiloClaw targets shadow AI with autonomous agent governance",
+    "summary": "השקת KiloClaw מספקת לארגונים כלי לניהול ממשל על סוכנים אוטונומיים וטיפול ב-AI צללים. בשעה שעסקים התרכזו באבטחת מודלים של שפה גדולה ובגיבוש הסכמי ספקים, עובדים החלו לעקוף את התהליכים הרשמיים ולהפעיל סוכנים אוטונומיים בתשתיות פרטיות.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
+    "published": "2026-04-02T16:30:53",
+    "source": "AI News"
+  },
+  {
+    "id": "6348344875960432356",
+    "title": "גוגל מאפשרת כעת להנחות אווטרים באמצעות פקודות באפליקציית Vids",
+    "original_title": "Google now lets you direct avatars through prompts in its Vids app",
+    "summary": "גוגל מוסיפה אפשרות להתאמה אישית והנחיית אווטרים ליצירת וידאו באפליקציית Vids באמצעות פקודות טקסט.",
+    "category": "מודלי AI",
+    "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+    "published": "2026-04-02T16:00:00",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-125409979429086869",
+    "title": "5 שיטות עבודה מומלצות לאבטחת מערכות בינה מלאכותית",
+    "original_title": "5 best practices to secure AI systems",
+    "summary": "המאמר עוסק בחמש שיטות עבודה מומלצות לאבטחת מערכות בינה מלאכותית. הוא מדגיש את הצורך באסטרטגיית הגנה רב-שכבתית כדי להתמודד עם משטחי התקפה חדשים שמערכות אבטחה מסורתיות אינן מתוכננות לטפל בהם, במיוחד כאשר הטכנולוגיה משולבת בפעולות קריטיות.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
+    "published": "2026-04-02T14:45:03",
+    "source": "AI News"
+  },
+  {
+    "id": "-1018814061477908982",
+    "title": "תוכנית החומש של סין מפרטת את היעדים לפריסת בינה מלאכותית",
+    "original_title": "China’s Five-Year Plan details the targets for AI deployment",
+    "summary": "סין אישרה את תוכנית החומש ה-15 שלה, המפרטת את סדרי העדיפויות הכלכליים, החינוכיים, החברתיים והתעשייתיים של המדינה עד שנת 2030. התוכנית כוללת התייחסות משמעותית לבינה מלאכותית, לצד טכנולוגיות כמו מחשוב קוונטי, ביוטכנולוגיה ואנרגיה, ומדגישה את חשיבותן בתחומים שונים.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
+    "published": "2026-04-02T13:23:00",
+    "source": "AI News"
+  },
+  {
+    "id": "2453196391958913477",
+    "title": "מערכות AI אוטונומיות תלויות בממשל נתונים",
+    "original_title": "Autonomous AI systems depend on data governance",
+    "summary": "המאמר עוסק בצורך בממשל נתונים עבור מערכות AI אוטונומיות. הוא מדגיש כי תשומת הלב עוברת מהתמקדות במודלים עצמם לאיכות הנתונים שמזינים את המערכות. נתונים מפוצלים, מיושנים או חסרי פיקוח עשויים לגרום להתנהגות בלתי צפויה של המערכות.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
+    "published": "2026-04-02T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-8622951778027906302",
+    "title": "Experian חושפת פרדוקס הונאה באימוץ AI בשירותים פיננסיים",
+    "original_title": "Experian uncovers fraud paradox in financial services’ AI adoption",
+    "summary": "דו\"ח חדש של Experian חושף פרדוקס בתחום האבטחה הפיננסית: הטכנולוגיה המתקדמת שמוסדות פיננסיים מאמצים כדי להילחם בהונאות משמשת גם כנשק נגדם. הדו\"ח מתאר את האתגרים הצפויים עד 2026 ומבוסס על נתוני ה-FTC שמראים עלייה בהפסדי צרכנים כתוצאה מהונאות.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
+    "published": "2026-04-02T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-1058005720871123705",
+    "title": "Anthropic הסירה אלפי מאגרי GitHub בניסיון לטפל בדליפת קוד המקור שלה — מהלך שהחברה טוענת שהיה טעות",
+    "original_title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+    "summary": "חברת Anthropic הסירה בטעות אלפי מאגרי GitHub בניסיון להתמודד עם דליפת קוד המקור שלה. מנהלי החברה טוענים כי מדובר בטעות והחזירו את רוב ההודעות שהוגשו להסרת התוכן.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+    "published": "2026-04-01T22:12:13",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "8340947751172077056",
+    "title": "KPMG: בתוך ספר ההפעלה של סוכני AI שמניעים רווחי ארגונים",
+    "original_title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
+    "summary": "דו\"ח של KPMG מראה כי למרות השקעות עולמיות גוברות בבינה מלאכותית, הפער בין הוצאות הארגונים על AI לבין הערך העסקי הנמדד הולך וגדל. הסקר מצביע על כך שארגונים מתכננים להוציא בממוצע כ-186 מיליון דולר על AI בשנה הקרובה, אך התועלת העסקית עדיין אינה ברורה.",
+    "category": "עסקים (מיזוגים, רכישות ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
+    "published": "2026-04-01T15:24:01",
+    "source": "AI News"
+  },
+  {
+    "id": "5308743477626412125",
+    "title": "דו\"ח העסקים של DeepL חושף כי 83% מהארגונים עדיין מפגרים ב-AI לשפה",
+    "original_title": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI",
+    "summary": "דו\"ח של DeepL חושף כי 83% מהארגונים עדיין מפגרים באימוץ טכנולוגיות AI לשפה. הדו\"ח, שפורסם תחת הכותרת \"עסקים ללא גבולות: מהפכת התרגום בעידן ה-AI\", מדגיש כי למרות השקעות נרחבות ב-AI בתחומים עסקיים שונים, תהליכי עבודה רב-לשוניים, המשפיעים על מכירות, משפטים ותמיכת לקוחות, אינם מתקדמים באותה מידה.",
+    "category": "עסקים",
+    "link": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
+    "published": "2026-04-01T12:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-4973261853367057017",
+    "title": "הרשי מיישמת בינה מלאכותית בתפעול שרשרת האספקה שלה",
+    "original_title": "Hershey applies AI across its supply chain operations",
+    "summary": "חברת הרשי משלבת בינה מלאכותית בתפעול שרשרת האספקה שלה, תוך שימוש במערכות נתונים לתמיכה בהחלטות יומיומיות בתהליכי ייצור ולוגיסטיקה. המהלך מצביע על שינוי בשימוש בבינה מלאכותית מעבר לתוכנה בלבד, ומדגיש את חשיבותה בפן הפיזי של העסק.",
+    "category": "עסקים",
+    "link": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/",
+    "published": "2026-04-01T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "8783156587369986014",
+    "title": "SAP ו-ANYbotics מקדמות אימוץ תעשייתי של בינה מלאכותית פיזית",
+    "original_title": "SAP and ANYbotics drive industrial adoption of physical AI",
+    "summary": "חברת ANYbotics השוויצרית, המפתחת רובוטים אוטונומיים בעלי ארבע רגליים, משתפת פעולה עם חברת SAP כדי לקדם את השימוש בבינה מלאכותית פיזית בתעשייה הכבדה. הרובוטים יחוברו ישירות למערכת ניהול המשאבים הארגונית של SAP, במטרה להחליף את הצורך בבני אדם לביצוע בדיקות באזורים מסוכנים ומלוכלכים, ובכך להפחית עלויות ולשפר את בטיחות העובדים.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
+    "published": "2026-03-31T15:20:53",
+    "source": "AI News"
+  },
+  {
+    "id": "-1645243853105386265",
+    "title": "ממשל מאובטח מאיץ את צמיחת ההכנסות של AI פיננסי",
+    "original_title": "Secure governance accelerates financial AI revenue growth",
+    "summary": "מוסדות פיננסיים מתחילים ליישם פתרונות AI תואמי רגולציה כדי להאיץ את צמיחת ההכנסות ולשפר את היתרון התחרותי בשוק. בעבר, נעשה שימוש ב-AI בעיקר לשיפור יעילות, כמו גילוי אי-התאמות בספרי חשבונות או צמצום זמן ביצוע במסחר אוטומטי.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
+    "published": "2026-03-30T15:54:58",
     "source": "AI News"
   }
 ]
