@@ -1,162 +1,152 @@
 [
   {
-    "id": "-2136417310725544424",
-    "title": "Cloudflare אומרת כי בינה מלאכותית הפכה 1,100 משרות למיותרות, למרות שההכנסות הגיעו לשיא",
-    "original_title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "summary": "חברת Cloudflare הודיעה על פיטורים רחבי היקף ראשונים, כאשר 1,100 משרות הפכו למיותרות בעקבות שיפורי יעילות שהושגו באמצעות בינה מלאכותית. המנכ\"ל מת'יו פרינס ציין כי החברה אינה זקוקה עוד למספר רב של תפקידי תמיכה, למרות שהכנסות החברה הגיעו לשיא חדש.",
-    "category": "עסקים",
-    "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "published": "2026-05-08T18:33:21",
+    "id": "-4743687234022588367",
+    "title": "OpenAI משיקה את ChatGPT לניהול פיננסי אישי, עם אפשרות לחיבור חשבונות בנק",
+    "original_title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "summary": "OpenAI השיקה גרסה של ChatGPT לניהול פיננסי אישי, המאפשרת למשתמשים לחבר את חשבונות הבנק שלהם ולצפות בלוח מחוונים המציג את ביצועי התיק, הוצאות, מנויים ותשלומים קרובים.",
+    "category": "מודלי AI",
+    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "published": "2026-05-15T16:00:00",
     "source": "AI News & Artificial Intelligence | TechCrunch"
   },
   {
-    "id": "-5004692747157482847",
-    "title": "חברת התעופה של העם ומרוץ הזהב של ה-AI הארגוני",
-    "original_title": "The “people’s airline” and the enterprise AI gold rush",
-    "summary": "השבוע נרשמה פעילות רבה בתחום ה-AI הארגוני, עם הכרזות על שיתופי פעולה חדשים בין Anthropic ו-OpenAI למטרת פריסת AI בארגונים, והשקעה של מיליארד דולר מצד SAP בסטארטאפ הגרמני Prior Labs. המגמה מצביעה על כך שסטארטאפים המפתחים כלים ארגוניים הופכים ליעד לרכישות.",
-    "category": "עסקים",
-    "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-    "published": "2026-05-08T15:46:17",
+    "id": "4183020947403441807",
+    "title": "דלוייט: להרחיב את 'הבינה האוטונומית' לצמיחה אמיתית",
+    "original_title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
+    "summary": "מנהיגי ארגונים צריכים להתקדם מעבר ליישומים גנרטיביים ולהתרכז בהרחבת 'בינה אוטונומית' כדי להשיג צמיחה אמיתית. בעוד שיכולות כמו יצירת טקסט או סיכום תקשורת פנימית משפרות פרודוקטיביות מקומית, הן לרוב אינן משנות את מבנה העלויות או ההכנסות של ארגונים גדולים. כעת, המיקוד הוא בפריסת מערכות המסוגלות לביצוע עצמאי.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
+    "published": "2026-05-15T15:02:00",
+    "source": "AI News"
+  },
+  {
+    "id": "8139730738840246399",
+    "title": "Runway התחילה בעזרה ליוצרי סרטים — עכשיו היא רוצה להתחרות בגוגל בתחום הבינה המלאכותית",
+    "original_title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+    "summary": "חברת הסטארטאפ Runway, המתמחה ביצירת וידאו באמצעות בינה מלאכותית, מאמינה כי יצירת וידאו היא הדרך למודלים עולמיים. החברה רואה בעובדה שהיא פועלת מחוץ למרכזי הכוח הגדולים של הבינה המלאכותית יתרון ולא חיסרון.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "published": "2026-05-15T14:00:00",
     "source": "AI News & Artificial Intelligence | TechCrunch"
   },
   {
-    "id": "-7893596515698595418",
+    "id": "3265986039428441220",
+    "title": "Osaurus מביאה מודלים של בינה מלאכותית מקומיים ומבוססי ענן למק שלך",
+    "original_title": "Osaurus brings both local and cloud AI models to your Mac",
+    "summary": "אפליקציית Osaurus משלבת מודלים של בינה מלאכותית מקומיים ומבוססי ענן במחשבי מק, תוך שמירה על זיכרון, קבצים וכלים של המשתמשים בחומרה המקומית שלהם.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+    "published": "2026-05-15T12:19:48",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-4944751017995211854",
+    "title": "OpenAI אומרת ש-Codex מגיע לטלפון שלך",
+    "original_title": "OpenAI says Codex is coming to your phone",
+    "summary": "OpenAI הכריזה כי Codex, המודל שלה לתכנות מבוסס AI, יהיה זמין כעת גם בטלפונים ניידים. עדכון זה מאפשר למשתמשים גמישות משופרת בניהול תהליכי העבודה שלהם, תוך שימוש במודל ליצירת קוד ופתרון בעיות תכנותיות.",
+    "category": "מודלי AI",
+    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "published": "2026-05-14T20:58:55",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-3987259810530922629",
+    "title": "מה קורה כשהבינה המלאכותית מתחילה לבנות את עצמה?",
+    "original_title": "What happens when AI starts building itself?",
+    "summary": "הסטארטאפ החדש של ריצ'רד סוצ'ר, עם מימון של 650 מיליון דולר, שואף לפתח בינה מלאכותית שיכולה לחקור ולשפר את עצמה ללא הגבלה, תוך התחייבות לספק מוצרים מעשיים.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+    "published": "2026-05-14T19:57:20",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "8327536626221334791",
+    "title": "דיווחים: OpenAI מתכוננת לפעולה משפטית נגד אפל; זו לא תהיה הפעם הראשונה ששותפה חשה נבגדת",
+    "original_title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+    "summary": "חברת OpenAI שוקלת לנקוט בצעדים משפטיים נגד אפל בעקבות אינטגרציה של ChatGPT שלא הצליחה לספק את כמות המנויים והחשיפה שציפתה לה.",
+    "category": "עסקים",
+    "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "published": "2026-05-14T19:12:03",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "8006953233258112557",
+    "title": "בינה מלאכותית פיזית מתקרבת לקווי הייצור כאשר חברות בוחנות רובוטים דמויי אדם",
+    "original_title": "Physical AI moves closer to factory floors as companies test humanoid robots",
+    "summary": "חברת הטכנולוגיה הבריטית Humanoid תפרוס רובוטים דמויי אדם במפעלים של ספקית התעשייה הגרמנית Schaeffler. ההסכם בין החברות כולל פריסה של כ-1,000 עד 2,000 רובוטים באתרי הייצור של Schaeffler ברחבי העולם עד שנת 2032. הפריסה הראשונה מתוכננת להתחיל בקרוב.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
+    "published": "2026-05-14T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-825480129420073058",
+    "title": "כנס Physical AI מגיע לסן חוזה כשהרובוטיקה וה-AI האוטונומי הופכים למיינסטרים",
+    "original_title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
+    "summary": "כנס Physical AI ייערך בסן חוזה במאי 2026 ויעסוק בעתיד הרובוטיקה, מערכות אוטונומיות ושילוב AI בעולם הפיזי. הכנס יפגיש מהנדסים, בונים וחלוצי AI מרחבי העולם לשיתוף פעולה ודיונים על הפיכת אינטליגנציה לפעולה פיזית.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
+    "published": "2026-05-13T13:43:38",
+    "source": "AI News"
+  },
+  {
+    "id": "2537258722314696999",
+    "title": "JBS Dev: על נתונים לא מושלמים והשלב האחרון של AI – מיכולות המודל ועד קיימות כלכלית",
+    "original_title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
+    "summary": "ג'ו רוז, נשיא חברת הטכנולוגיה האסטרטגית JBS Dev, מדגיש כי אין צורך בנתונים מושלמים כדי לעבוד עם מערכות AI גנרטיביות וסוכנותיות. הוא שובר את המיתוס הנפוץ ומסביר כיצד ניתן לגשר על הפער בין יכולות המודל לבין קיימות כלכלית, תוך התמודדות עם נתונים לא מושלמים.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+    "published": "2026-05-12T15:37:43",
+    "source": "AI News"
+  },
+  {
+    "id": "-7836079696148985092",
+    "title": "Hugging Face אירחה תוכנה זדונית שהתחזתה לשחרור של OpenAI",
+    "original_title": "Hugging Face hosted malicious software masquerading as OpenAI release",
+    "summary": "חוקרי חברת אבטחת AI HiddenLayer גילו כי מאגר ב-Hugging Face שהתחזה לשחרור רשמי של OpenAI הכיל תוכנה זדונית מסוג Infostealer. התוכנה נועדה לגנוב מידע ממחשבי Windows והורדה כ-244,000 פעמים לפני שהוסרה. ייתכן שמספר ההורדות נופח באופן מלאכותי על ידי התוקפים כדי להיראות פופולרי יותר.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
+    "published": "2026-05-12T13:52:00",
+    "source": "AI News"
+  },
+  {
+    "id": "7184880065115204398",
+    "title": "Laserfiche משיקה סוכני AI עבור זרימות עבודה בשפה טבעית",
+    "original_title": "Laserfiche unveils AI agents for natural language workflows",
+    "summary": "חברת Laserfiche הכריזה על השקת סוכני AI שיכולים לבצע משימות באמצעות פקודות בשפה טבעית. הסוכנים האינטליגנטיים פועלים בהתאם לכללי האבטחה והציות המשולבים של החברה, ומבטיחים שהמידע הרגיש יישאר מוגן.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
+    "published": "2026-05-12T08:57:13",
+    "source": "AI News"
+  },
+  {
+    "id": "4616328152276743233",
+    "title": "בינה מלאכותית אוטומטית תאימות משאבי אנוש, למעט התחום שחברות טכנולוגיה זקוקות לו",
+    "original_title": "AI automates HR compliance, except for the area tech companies need",
+    "summary": "בינה מלאכותית משנה את האופן שבו חברות מנהלות תאימות רגולטורית. בדיקות רקע מתבצעות בזמן אמת, ניטור שכר מזהה אי-התאמות באופן אוטומטי, וניתוח חיזוי מאפשר לזהות עזיבת עובדים לפני שהיא מתרחשת. מערכות טכנולוגיות בתחום משאבי האנוש מציעות פתרונות אוטומטיים כמעט לכל דרישה רגולטורית, אך יש תחום אחד שבו עדיין יש פערים משמעותיים.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
+    "published": "2026-05-11T14:34:05",
+    "source": "AI News"
+  },
+  {
+    "id": "-6623617318297164062",
+    "title": "Bain צופה שוק SaaS בשווי 100 מיליארד דולר באוטומציה מבוססת AI",
+    "original_title": "Bain sees US$100 billion SaaS market in agentic AI automation",
+    "summary": "חברת Bain & Company העריכה כי שוק ה-SaaS בארצות הברית המשלב אוטומציה מבוססת AI עשוי להגיע לשווי של 100 מיליארד דולר. הדוח, השני בסדרה בת חמישה חלקים על תעשיית התוכנה בעידן הבינה המלאכותית, מתמקד באוטומציה של עבודות תיאום במערכות ארגוניות.",
+    "category": "עסקים",
+    "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
+    "published": "2026-05-11T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "6614740855635495322",
     "title": "RingCentral מוסיפה את Shopify, Calendly ו-WhatsApp ל-AI Receptionist",
     "original_title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
-    "summary": "חברת RingCentral הרחיבה את מוצר ה-AI Receptionist שלה עם חיבורים חדשים ל-Shopify, Calendly ו-WhatsApp. המוצר, המכונה AIR, מסוגל כעת לטפל בשאילתות הזמנות דרך Shopify ולתאם פגישות דרך Calendly, תוך התמקדות בשיפור משימות שירות לקוחות שגרתיות.",
+    "summary": "חברת RingCentral הרחיבה את מוצר ה-AI Receptionist שלה עם חיבורים חדשים ל-Shopify, Calendly ו-WhatsApp. המוצר, המכונה AIR, מסוגל כעת לטפל בפניות לגבי הזמנות דרך Shopify ולתאם פגישות דרך Calendly, ובכך להרחיב את יכולותיו מעבר למענה בסיסי לשיחות ולהתמקד במשימות שירות לקוחות שגרתיות.",
     "category": "מודלי AI",
     "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
     "published": "2026-05-08T14:54:00",
-    "source": "AI News"
-  },
-  {
-    "id": "8006707618751516638",
-    "title": "OpenAI משיקה תכונות חדשות של בינה קולית ב-API שלה",
-    "original_title": "OpenAI launches new voice intelligence features in its API",
-    "summary": "OpenAI השיקה תכונות חדשות של בינה קולית ב-API שלה, שיכולות להיות שימושיות למערכות שירות לקוחות, אך יש להן יישומים גם בתחומים נוספים כמו חינוך ופלטפורמות ליוצרים.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-    "published": "2026-05-07T22:24:50",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "-1748923904791861832",
-    "title": "מייסדי Voi הקימו סטארטאפ חדש בתחום הבינה המלאכותית בשם Pit, שהפך לכוכב עולה בשטוקהולם",
-    "original_title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-    "summary": "חברת הסטארטאפ החדשה בתחום הבינה המלאכותית, Pit, בהובלת מייסדי ענקית הקורקינטים האירופאית Voi, גייסה סבב סיד של 16 מיליון דולר בהובלת קרן ההשקעות a16z.",
-    "category": "עסקים",
-    "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-    "published": "2026-05-07T21:02:11",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "-7688694738221164428",
-    "title": "OpenAI מציגה אמצעי הגנה חדש בשם 'Trusted Contact' למקרים של פגיעה עצמית אפשרית",
-    "original_title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-    "summary": "חברת OpenAI מציגה אמצעי הגנה חדש בשם 'Trusted Contact' שנועד לסייע במקרים בהם שיחות עם ChatGPT עשויות להוביל לנושאים הקשורים לפגיעה עצמית. המהלך נועד להרחיב את מאמצי החברה להגן על משתמשים במצבים רגישים.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-    "published": "2026-05-07T20:20:20",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "4320104567099141566",
-    "title": "המחשב האישי של Perplexity זמין כעת לכולם ב-Mac",
-    "original_title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-    "summary": "Perplexity השיקה את Personal Computer, כלי המשלב סוכני AI, וכעת זמין לכלל המשתמשים במחשבי Mac.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-    "published": "2026-05-07T19:57:59",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "68056091377953602",
-    "title": "בינה מלאכותית מסייעת להקל על העומס ב-NHS בבריטניה",
-    "original_title": "AI helping ease the UK’s NHS burden",
-    "summary": "המאמר עוסק בשימוש בבינה מלאכותית כדי להקל על העומס במערכת הבריאות הבריטית (NHS). הטכנולוגיה מסייעת בניהול רשימות המתנה ארוכות ומקדמת מדיניות חדשה שמטרתה להעביר חלק מהטיפול הרפואי מבתי החולים למסגרות אחרות.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
-    "published": "2026-05-07T09:35:00",
-    "source": "AI News"
-  },
-  {
-    "id": "5587271405711533785",
-    "title": "HP ואמנות הבינה המלאכותית והנתונים עבור ארגונים",
-    "original_title": "HP and the art of AI and data for the enterprise",
-    "summary": "HP מתמקדת בשימוש בבינה מלאכותית ובמדע הנתונים כדי לשפר את עיבוד הנתונים עבור ארגונים, כולל דיון על שימוש במחשוב מקומי מול מחשוב בענן. הכתבה מציגה את דבריו של מנהל פיתוח עסקי בתחום הבינה המלאכותית ומדע הנתונים בחברה לקראת כנס AI & Big Data Expo.",
-    "category": "עסקים",
-    "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
-    "published": "2026-05-06T15:14:00",
-    "source": "AI News"
-  },
-  {
-    "id": "3172419092434695569",
-    "title": "ממשלת ארה\"ב מגדילה את ספקי ה-AI ושוקלת מחדש את תפקידה של Anthropic",
-    "original_title": "US government increases AI suppliers and rethinks Anthropic’s role",
-    "summary": "ממשלת ארצות הברית הוסיפה ארבע חברות AI נוספות לרשימת הספקים המועדפים שלה, כולל מיקרוסופט, Reflection AI, אמזון ו-Nvidia, אשר מוצריהן יוכלו לשמש לפעולות מסווגות. חברות אלו מצטרפות ל-OpenAI, xAI וגוגל ברשימה.",
-    "category": "עסקים",
-    "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
-    "published": "2026-05-06T12:23:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-3706517901835274189",
-    "title": "גוגל בוחנת את סוכן הבינה המלאכותית רמי עבור ג'מיני עם דגש על שליטת משתמשים",
-    "original_title": "Google tests Remy AI agent for Gemini as focus turns to user control",
-    "summary": "גוגל בוחנת את רמי, סוכן אישי חדש מבוסס בינה מלאכותית עבור ג'מיני, שנועד לבצע פעולות עבור משתמשים במשימות עבודה ויומיום. רמי נבדק בגרסה פנימית של אפליקציית ג'מיני, במטרה לשפר את השליטה של המשתמשים על הכלי.",
-    "category": "מודלי AI",
-    "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
-    "published": "2026-05-06T10:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-7892945895006645151",
-    "title": "בינה מלאכותית פיזית מעלה שאלות ממשל עבור מערכות אוטונומיות",
-    "original_title": "Physical AI raises governance questions for autonomous systems",
-    "summary": "ממשל סביב בינה מלאכותית פיזית הופך למורכב יותר ככל שמערכות AI אוטונומיות נכנסות לשימוש ברובוטים, חיישנים וציוד תעשייתי. האתגר אינו רק אם סוכני AI יכולים להשלים משימות, אלא כיצד ניתן לבדוק, לפקח ולעצור את פעולותיהם כאשר הם מתקשרים עם מערכות בעולם האמיתי.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
-    "published": "2026-05-04T11:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-4778073820376675407",
-    "title": "גוגל הפכה את ניהול הממשל של AI לתכונת מוצר. ארגונים עדיין צריכים להדביק את הפער.",
-    "original_title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
-    "summary": "גוגל הכריזה על פלטפורמת Gemini Enterprise Agent במסגרת אירוע Google Cloud Next '26 בלאס וגאס, שהופכת את ניהול הממשל של AI לתכונה מובנית במוצר ולא כעניין משני. הפלטפורמה מוצגת כיורשת של Vertex AI ומטרתה לשפר את מוכנות הארגונים לניהול AI בצורה אחראית ומתקדמת.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
-    "published": "2026-05-04T10:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "8689398534229644029",
-    "title": "SAP: כיצד ממשל AI ארגוני מבטיח שולי רווח",
-    "original_title": "SAP: How enterprise AI governance secures profit margins",
-    "summary": "SAP מדגישה כיצד ממשל AI ארגוני יכול לשפר את שולי הרווח על ידי החלפת ניחושים סטטיסטיים בשליטה דטרמיניסטית. הממשל מאפשר דיוק רב יותר במודלים, במיוחד במקרים בהם מודלים צרכניים עשויים להחטיא בכ-10% במשימות פשוטות כמו ספירת מילים במסמך.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
-    "published": "2026-05-01T13:05:37",
-    "source": "AI News"
-  },
-  {
-    "id": "-9164732712811085459",
-    "title": "חיוב לפי טוקן מגיע ל-GitHub Copilot",
-    "original_title": "Per-token AI charges come to GitHub Copilot",
-    "summary": "החל מה-1 ביוני 2026, GitHub Copilot תתחיל לגבות תשלום ממשתמשיה על בסיס כמות הטוקנים שהם משתמשים בהם, במקום מודל מנוי קבוע. המודל הקודם היה פשוט להבנה ולשימוש, אך כעת המשתמשים יידרשו לשלם בהתאם לשימוש בפועל.",
-    "category": "עסקים",
-    "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
-    "published": "2026-05-01T11:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-707335775430912153",
-    "title": "מה השיחות בין LG ל-NVIDIA חושפות על עתיד ה-AI הפיזי",
-    "original_title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
-    "summary": "חברת LG מנהלת דיונים עם NVIDIA בנוגע ל-AI פיזי, מרכזי נתונים וניידות. פגישה בסיאול בין מנכ\"ל LG ריו ג'אה-צ'ול ומדיסון הואנג, מנהלת בכירה לשיווק מוצרי Omniverse ורובוטיקה ב-NVIDIA, חשפה את התלות התפעולית הנדרשת להפעלת מערכות אוטומטיות מורכבות.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
-    "published": "2026-04-30T15:59:54",
     "source": "AI News"
   }
 ]
