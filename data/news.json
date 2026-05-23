@@ -1,152 +1,142 @@
 [
   {
-    "id": "-4743687234022588367",
-    "title": "OpenAI משיקה את ChatGPT לניהול פיננסי אישי, עם אפשרות לחיבור חשבונות בנק",
-    "original_title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-    "summary": "OpenAI השיקה גרסה של ChatGPT לניהול פיננסי אישי, המאפשרת למשתמשים לחבר את חשבונות הבנק שלהם ולצפות בלוח מחוונים המציג את ביצועי התיק, הוצאות, מנויים ותשלומים קרובים.",
-    "category": "מודלי AI",
-    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-    "published": "2026-05-15T16:00:00",
+    "id": "1362298090265945533",
+    "title": "משתמשים בבינה מלאכותית כדי להחיות את קולותיהם של טייסים מתים",
+    "original_title": "AI is being used to resurrect the voices of dead pilots",
+    "summary": "אנשים השתמשו בבינה מלאכותית על תמונת ספקטרוגרמה של הקלטות תא טייס כדי לשחזר את הקולות, מה שהוביל את ה-NTSB לחסום זמנית גישה למערכת המסמכים שלו.",
+    "category": "פרויקטים ואלגוריתמים מעניינים",
+    "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "published": "2026-05-22T23:03:33",
     "source": "AI News & Artificial Intelligence | TechCrunch"
   },
   {
-    "id": "4183020947403441807",
-    "title": "דלוייט: להרחיב את 'הבינה האוטונומית' לצמיחה אמיתית",
-    "original_title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
-    "summary": "מנהיגי ארגונים צריכים להתקדם מעבר ליישומים גנרטיביים ולהתרכז בהרחבת 'בינה אוטונומית' כדי להשיג צמיחה אמיתית. בעוד שיכולות כמו יצירת טקסט או סיכום תקשורת פנימית משפרות פרודוקטיביות מקומית, הן לרוב אינן משנות את מבנה העלויות או ההכנסות של ארגונים גדולים. כעת, המיקוד הוא בפריסת מערכות המסוגלות לביצוע עצמאי.",
+    "id": "-2915856276264018093",
+    "title": "כיצד משקיעי הון סיכון ומייסדים משתמשים במדדי הכנסה מנופחים כדי להכתיר סטארטאפים בתחום הבינה המלאכותית",
+    "original_title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+    "summary": "חלק מהסטארטאפים בתחום הבינה המלאכותית משתמשים במדדים פיננסיים מנופחים כדי להציג התקדמות באופן ציבורי, כאשר המשקיעים שלהם מודעים לכך לחלוטין.",
+    "category": "עסקים",
+    "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+    "published": "2026-05-22T20:40:48",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "4245991538687102559",
+    "title": "ניסינו את משקפי ה-AI של גוגל והם כמעט שם",
+    "original_title": "We tried Google’s AI glasses and they’re almost there",
+    "summary": "גוגל הציגה אבטיפוס של משקפי XR מבוססי אנדרואיד שמשתמשים בטכנולוגיית Gemini להקרנת תרגום, ניווט ומידע נוסף ישירות לשדה הראייה.",
     "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+    "published": "2026-05-22T15:37:15",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-7884218568473937874",
+    "title": "הבינה המלאכותית של סין מיפתה את כל רשת האנרגיה המתחדשת שלה. הנה למה שאר העולם צריך לשים לב",
+    "original_title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
+    "summary": "בינה מלאכותית בסין מיפתה את כל רשת האנרגיה המתחדשת של המדינה, מה שמדגיש את הפוטנציאל של AI בניהול משאבי אנרגיה בצורה יעילה. המהלך הזה חשוב במיוחד לאור העלייה בצריכת החשמל על ידי AI, שמאתגרת את יכולות הרשתות הקיימות בעולם.",
+    "category": "פרויקטים ואלגוריתמים מעניינים",
+    "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
+    "published": "2026-05-22T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-1095622063711784545",
+    "title": "מאסק וצוקרברג שכנעו את טראמפ לבטל צו נשיאותי בנושא בינה מלאכותית",
+    "original_title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+    "summary": "נשיא ארצות הברית דונלד טראמפ ביטל צו נשיאותי מתוכנן בנושא בינה מלאכותית, לאחר שיחות עם אילון מאסק ומארק צוקרברג. הצו נועד להתמודד עם התחרות מול סין, אך הובעו חששות כי הוא עלול לפגוע ביתרון התחרותי של ארצות הברית.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
+    "published": "2026-05-22T09:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-4882003509282291517",
+    "title": "Spotify ו-Universal Music חתמו על הסכם המאפשר יצירת גרסאות כיסוי ורמיקסים באמצעות AI",
+    "original_title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+    "summary": "Spotify משתפת פעולה עם Universal Music Group כדי לאפשר למנויי פרימיום ליצור גרסאות כיסוי ורמיקסים של שירים באמצעות AI, כאשר אמנים משתתפים יקבלו חלק מההכנסות.",
+    "category": "עסקים",
+    "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+    "published": "2026-05-21T19:45:00",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-1550868624044447409",
+    "title": "טראמפ מעכב צו נשיאותי על אבטחת בינה מלאכותית, ואומר שהנוסח 'יכול היה להיות מכשול'",
+    "original_title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+    "summary": "הנשיא טראמפ עיכב את החתימה על צו נשיאותי שהיה מחייב בדיקות אבטחה ממשלתיות למודלים של בינה מלאכותית לפני שחרורם, בטענה לאי שביעות רצון מנוסח הצו.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "published": "2026-05-21T17:30:45",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "7557936242814120097",
+    "title": "השבב Vera של Nvidia הוא ההימור בשווי 200 מיליארד דולר שג'נסן הואנג לא רוצה שתתעלמו ממנו",
+    "original_title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
+    "summary": "שבב ה-Vera של Nvidia הוא הימור משמעותי בשווי 200 מיליארד דולר שמנכ\"ל החברה, ג'נסן הואנג, לא רוצה שתתעלמו ממנו. השבב, שמוזכר בהקשר של ביצועי החברה המצוינים ברבעון הראשון של השנה, עשוי להיות גורם מרכזי בהובלת טכנולוגיות בינה מלאכותית וביצועי מחשוב מתקדמים.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
+    "published": "2026-05-21T08:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "4247383793475980873",
+    "title": "עליבאבא מעצבת שבבי AI סביב סוכנים, וזה משנה את מהות המרוץ",
+    "original_title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+    "summary": "עליבאבא חשפה מעבד AI חדש בשם Zhenwu M890, שתוכנן במיוחד עבור סוכני AI. המעבד מגיע יחד עם מפת דרכים רב-שנתית בתחום הסיליקון ומודל שפה גדול חדש, מה שמעיד על כך שהחברה בונה מערך AI משולב במקום פשוט למלא פערים שנוצרו בעקבות מגבלות הייצוא של ארה\"ב.",
+    "category": "מודלי AI",
+    "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
+    "published": "2026-05-20T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "1366404941374993133",
+    "title": "חסמים ותוכניות דרכים ל-AI בארגונים, אבטחה ו-AI פיזי: היום השני ב-TechEx",
+    "original_title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
+    "summary": "ביום השני של כנס TechEx צפון אמריקה, התקיים דיון מעמיק על חסמים ותוכניות דרכים לשילוב AI בארגונים. הדיונים התמקדו באתגרים כמו 'בית הקברות של AI', שבו פרויקטים מצליחים בפיילוט אך לא מצליחים להתרחב, וכן בנושאים של אבטחה ושימושים פיזיים של AI.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
+    "published": "2026-05-19T19:18:00",
+    "source": "AI News"
+  },
+  {
+    "id": "6399054571444366378",
+    "title": "עסקת Nvidia H200 עם סין שרדה את פסגת טראמפ-שי – אך לא כפי שציפו",
+    "original_title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
+    "summary": "המאמר עוסק בעסקת Nvidia H200 עם סין, שנפגעה בעקבות מגבלות על ייצוא שבבים שהוטלו על ידי ארצות הברית. המאמר מתאר כיצד המגבלות נותרו בתוקף גם לאחר פסגת טראמפ-שי, למרות הציפיות לשינוי. מדובר בנושא הקשור לרגולציה ולשליטה על טכנולוגיות מתקדמות.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
+    "published": "2026-05-19T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-7244006225738661702",
+    "title": "בינה מלאכותית היא עניין של כוח, תשתיות ואבטחה: TechEx North America",
+    "original_title": "AI is a matter of power, infrastructure and security: TechEx North America",
+    "summary": "הכנס TechEx North America הדגיש את החשיבות של כוח מחשוב, תשתיות ואבטחה בהקשר של בינה מלאכותית, במיוחד עבור מקבלי החלטות בארגונים. הדוברים והמציגים הציגו תובנות על האתגרים וההזדמנויות בתחום זה.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
+    "published": "2026-05-19T01:36:26",
+    "source": "AI News"
+  },
+  {
+    "id": "117420038969832324",
+    "title": "אמזון משיקה את Alexa for Shopping כאשר Rufus עובר מאחורי הקלעים",
+    "original_title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
+    "summary": "אמזון השיקה את Alexa for Shopping, שמשלבת את צ'אטבוט הקניות Rufus עם Alexa+ באפליקציה, באתר ובמכשירי Echo Show. העוזרת יכולה לענות על שאלות מוצרים, להשוות פריטים, לעקוב אחר מחירים ולתמוך בתזכורות קניות, כולל פעולות מתוזמנות ורכישות אוטומטיות.",
+    "category": "מודלי AI",
+    "link": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
+    "published": "2026-05-18T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "1631859510632174648",
+    "title": "דלוייט: להרחיב 'אינטליגנציה אוטונומית' לצמיחה אמיתית",
+    "original_title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
+    "summary": "מנהיגים ארגוניים צריכים להתקדם מעבר ליישומים גנרטיביים וליישם 'אינטליגנציה אוטונומית' כדי להשיג צמיחה אמיתית. בעוד שיצירת טקסט או סיכום תקשורת פנימית מספקים שיפורים מקומיים בפרודוקטיביות, יכולות אלו לרוב אינן משנות את מבנה העלויות או ההכנסות של ארגון גדול. כעת, ארגונים מתמקדים בפריסת מערכות המסוגלות לביצוע עצמאי.",
+    "category": "מודלי AI",
     "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
     "published": "2026-05-15T15:02:00",
-    "source": "AI News"
-  },
-  {
-    "id": "8139730738840246399",
-    "title": "Runway התחילה בעזרה ליוצרי סרטים — עכשיו היא רוצה להתחרות בגוגל בתחום הבינה המלאכותית",
-    "original_title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-    "summary": "חברת הסטארטאפ Runway, המתמחה ביצירת וידאו באמצעות בינה מלאכותית, מאמינה כי יצירת וידאו היא הדרך למודלים עולמיים. החברה רואה בעובדה שהיא פועלת מחוץ למרכזי הכוח הגדולים של הבינה המלאכותית יתרון ולא חיסרון.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-    "published": "2026-05-15T14:00:00",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "3265986039428441220",
-    "title": "Osaurus מביאה מודלים של בינה מלאכותית מקומיים ומבוססי ענן למק שלך",
-    "original_title": "Osaurus brings both local and cloud AI models to your Mac",
-    "summary": "אפליקציית Osaurus משלבת מודלים של בינה מלאכותית מקומיים ומבוססי ענן במחשבי מק, תוך שמירה על זיכרון, קבצים וכלים של המשתמשים בחומרה המקומית שלהם.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-    "published": "2026-05-15T12:19:48",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "-4944751017995211854",
-    "title": "OpenAI אומרת ש-Codex מגיע לטלפון שלך",
-    "original_title": "OpenAI says Codex is coming to your phone",
-    "summary": "OpenAI הכריזה כי Codex, המודל שלה לתכנות מבוסס AI, יהיה זמין כעת גם בטלפונים ניידים. עדכון זה מאפשר למשתמשים גמישות משופרת בניהול תהליכי העבודה שלהם, תוך שימוש במודל ליצירת קוד ופתרון בעיות תכנותיות.",
-    "category": "מודלי AI",
-    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-    "published": "2026-05-14T20:58:55",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "-3987259810530922629",
-    "title": "מה קורה כשהבינה המלאכותית מתחילה לבנות את עצמה?",
-    "original_title": "What happens when AI starts building itself?",
-    "summary": "הסטארטאפ החדש של ריצ'רד סוצ'ר, עם מימון של 650 מיליון דולר, שואף לפתח בינה מלאכותית שיכולה לחקור ולשפר את עצמה ללא הגבלה, תוך התחייבות לספק מוצרים מעשיים.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-    "published": "2026-05-14T19:57:20",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "8327536626221334791",
-    "title": "דיווחים: OpenAI מתכוננת לפעולה משפטית נגד אפל; זו לא תהיה הפעם הראשונה ששותפה חשה נבגדת",
-    "original_title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-    "summary": "חברת OpenAI שוקלת לנקוט בצעדים משפטיים נגד אפל בעקבות אינטגרציה של ChatGPT שלא הצליחה לספק את כמות המנויים והחשיפה שציפתה לה.",
-    "category": "עסקים",
-    "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-    "published": "2026-05-14T19:12:03",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "8006953233258112557",
-    "title": "בינה מלאכותית פיזית מתקרבת לקווי הייצור כאשר חברות בוחנות רובוטים דמויי אדם",
-    "original_title": "Physical AI moves closer to factory floors as companies test humanoid robots",
-    "summary": "חברת הטכנולוגיה הבריטית Humanoid תפרוס רובוטים דמויי אדם במפעלים של ספקית התעשייה הגרמנית Schaeffler. ההסכם בין החברות כולל פריסה של כ-1,000 עד 2,000 רובוטים באתרי הייצור של Schaeffler ברחבי העולם עד שנת 2032. הפריסה הראשונה מתוכננת להתחיל בקרוב.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
-    "published": "2026-05-14T10:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-825480129420073058",
-    "title": "כנס Physical AI מגיע לסן חוזה כשהרובוטיקה וה-AI האוטונומי הופכים למיינסטרים",
-    "original_title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
-    "summary": "כנס Physical AI ייערך בסן חוזה במאי 2026 ויעסוק בעתיד הרובוטיקה, מערכות אוטונומיות ושילוב AI בעולם הפיזי. הכנס יפגיש מהנדסים, בונים וחלוצי AI מרחבי העולם לשיתוף פעולה ודיונים על הפיכת אינטליגנציה לפעולה פיזית.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
-    "published": "2026-05-13T13:43:38",
-    "source": "AI News"
-  },
-  {
-    "id": "2537258722314696999",
-    "title": "JBS Dev: על נתונים לא מושלמים והשלב האחרון של AI – מיכולות המודל ועד קיימות כלכלית",
-    "original_title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
-    "summary": "ג'ו רוז, נשיא חברת הטכנולוגיה האסטרטגית JBS Dev, מדגיש כי אין צורך בנתונים מושלמים כדי לעבוד עם מערכות AI גנרטיביות וסוכנותיות. הוא שובר את המיתוס הנפוץ ומסביר כיצד ניתן לגשר על הפער בין יכולות המודל לבין קיימות כלכלית, תוך התמודדות עם נתונים לא מושלמים.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
-    "published": "2026-05-12T15:37:43",
-    "source": "AI News"
-  },
-  {
-    "id": "-7836079696148985092",
-    "title": "Hugging Face אירחה תוכנה זדונית שהתחזתה לשחרור של OpenAI",
-    "original_title": "Hugging Face hosted malicious software masquerading as OpenAI release",
-    "summary": "חוקרי חברת אבטחת AI HiddenLayer גילו כי מאגר ב-Hugging Face שהתחזה לשחרור רשמי של OpenAI הכיל תוכנה זדונית מסוג Infostealer. התוכנה נועדה לגנוב מידע ממחשבי Windows והורדה כ-244,000 פעמים לפני שהוסרה. ייתכן שמספר ההורדות נופח באופן מלאכותי על ידי התוקפים כדי להיראות פופולרי יותר.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
-    "published": "2026-05-12T13:52:00",
-    "source": "AI News"
-  },
-  {
-    "id": "7184880065115204398",
-    "title": "Laserfiche משיקה סוכני AI עבור זרימות עבודה בשפה טבעית",
-    "original_title": "Laserfiche unveils AI agents for natural language workflows",
-    "summary": "חברת Laserfiche הכריזה על השקת סוכני AI שיכולים לבצע משימות באמצעות פקודות בשפה טבעית. הסוכנים האינטליגנטיים פועלים בהתאם לכללי האבטחה והציות המשולבים של החברה, ומבטיחים שהמידע הרגיש יישאר מוגן.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
-    "published": "2026-05-12T08:57:13",
-    "source": "AI News"
-  },
-  {
-    "id": "4616328152276743233",
-    "title": "בינה מלאכותית אוטומטית תאימות משאבי אנוש, למעט התחום שחברות טכנולוגיה זקוקות לו",
-    "original_title": "AI automates HR compliance, except for the area tech companies need",
-    "summary": "בינה מלאכותית משנה את האופן שבו חברות מנהלות תאימות רגולטורית. בדיקות רקע מתבצעות בזמן אמת, ניטור שכר מזהה אי-התאמות באופן אוטומטי, וניתוח חיזוי מאפשר לזהות עזיבת עובדים לפני שהיא מתרחשת. מערכות טכנולוגיות בתחום משאבי האנוש מציעות פתרונות אוטומטיים כמעט לכל דרישה רגולטורית, אך יש תחום אחד שבו עדיין יש פערים משמעותיים.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
-    "published": "2026-05-11T14:34:05",
-    "source": "AI News"
-  },
-  {
-    "id": "-6623617318297164062",
-    "title": "Bain צופה שוק SaaS בשווי 100 מיליארד דולר באוטומציה מבוססת AI",
-    "original_title": "Bain sees US$100 billion SaaS market in agentic AI automation",
-    "summary": "חברת Bain & Company העריכה כי שוק ה-SaaS בארצות הברית המשלב אוטומציה מבוססת AI עשוי להגיע לשווי של 100 מיליארד דולר. הדוח, השני בסדרה בת חמישה חלקים על תעשיית התוכנה בעידן הבינה המלאכותית, מתמקד באוטומציה של עבודות תיאום במערכות ארגוניות.",
-    "category": "עסקים",
-    "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
-    "published": "2026-05-11T10:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "6614740855635495322",
-    "title": "RingCentral מוסיפה את Shopify, Calendly ו-WhatsApp ל-AI Receptionist",
-    "original_title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
-    "summary": "חברת RingCentral הרחיבה את מוצר ה-AI Receptionist שלה עם חיבורים חדשים ל-Shopify, Calendly ו-WhatsApp. המוצר, המכונה AIR, מסוגל כעת לטפל בפניות לגבי הזמנות דרך Shopify ולתאם פגישות דרך Calendly, ובכך להרחיב את יכולותיו מעבר למענה בסיסי לשיחות ולהתמקד במשימות שירות לקוחות שגרתיות.",
-    "category": "מודלי AI",
-    "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
-    "published": "2026-05-08T14:54:00",
     "source": "AI News"
   }
 ]
