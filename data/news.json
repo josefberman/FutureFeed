@@ -1,142 +1,182 @@
 [
   {
-    "id": "1362298090265945533",
-    "title": "משתמשים בבינה מלאכותית כדי להחיות את קולותיהם של טייסים מתים",
-    "original_title": "AI is being used to resurrect the voices of dead pilots",
-    "summary": "אנשים השתמשו בבינה מלאכותית על תמונת ספקטרוגרמה של הקלטות תא טייס כדי לשחזר את הקולות, מה שהוביל את ה-NTSB לחסום זמנית גישה למערכת המסמכים שלו.",
-    "category": "פרויקטים ואלגוריתמים מעניינים",
-    "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-    "published": "2026-05-22T23:03:33",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "-2915856276264018093",
-    "title": "כיצד משקיעי הון סיכון ומייסדים משתמשים במדדי הכנסה מנופחים כדי להכתיר סטארטאפים בתחום הבינה המלאכותית",
-    "original_title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-    "summary": "חלק מהסטארטאפים בתחום הבינה המלאכותית משתמשים במדדים פיננסיים מנופחים כדי להציג התקדמות באופן ציבורי, כאשר המשקיעים שלהם מודעים לכך לחלוטין.",
-    "category": "עסקים",
-    "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-    "published": "2026-05-22T20:40:48",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "4245991538687102559",
-    "title": "ניסינו את משקפי ה-AI של גוגל והם כמעט שם",
-    "original_title": "We tried Google’s AI glasses and they’re almost there",
-    "summary": "גוגל הציגה אבטיפוס של משקפי XR מבוססי אנדרואיד שמשתמשים בטכנולוגיית Gemini להקרנת תרגום, ניווט ומידע נוסף ישירות לשדה הראייה.",
+    "id": "4811529268820585709",
+    "title": "מתכנתים מסרבים לעבוד ללא בינה מלאכותית — וזה עשוי לחזור לפגוע בהם",
+    "original_title": "Coders are refusing to work without AI — and that could come back to bite them",
+    "summary": "הכתבה עוסקת בשימוש הגובר של מתכנתים בבינה מלאכותית ליצירת קוד במהירות רבה יותר. עם זאת, חוקרים מזהירים כי הקוד המיוצר עשוי להיות פחות איכותי, דבר שעלול לגרום לבעיות בעתיד.",
     "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-    "published": "2026-05-22T15:37:15",
+    "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "published": "2026-05-29T22:14:22",
     "source": "AI News & Artificial Intelligence | TechCrunch"
   },
   {
-    "id": "-7884218568473937874",
+    "id": "-4078323679899043464",
+    "title": "שמעתם את המונחים האלה על בינה מלאכותית והנהנתם; בואו נתקן את זה",
+    "original_title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "summary": "המאמר מציג מילון מונחים שמסביר את המושגים והביטויים המרכזיים בתחום הבינה המלאכותית, אשר הפכו נפוצים עם עליית התחום.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "published": "2026-05-29T18:49:19",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-364882725820392625",
+    "title": "מה קורה כשחברות הופכות ל'מכורות' לבינה מלאכותית?",
+    "original_title": "What happens when companies become too AI-pilled?",
+    "summary": "המאמר עוסק בהחלטות של חברות להחליף עובדים בסוכני בינה מלאכותית, תוך התייחסות לדוגמה של חברת ClickUp שפיטרה 22% מכוח האדם שלה לטובת AI. המייסד של Box, אהרון לוי, מזהיר מפני תופעה שהוא מכנה 'פסיכוזת AI', שבה מקבלי ההחלטות אינם מבינים לעומק את תפקידי העובדים שהם מחליפים.",
+    "category": "עסקים (מיזוגים, רכישות ועוד)",
+    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "published": "2026-05-29T17:57:05",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-1163442019422227016",
+    "title": "לאחר עסקת ה-20 מיליארד דולר של Nvidia, חברת השבבים Groq מגייסת 650 מיליון דולר",
+    "original_title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "summary": "חברת השבבים Groq שואפת לגייס 650 מיליון דולר במימון פנימי כאשר היא משנה את מיקודה מחומרה להתמקדות רבה יותר בתהליך האינפרנס של בינה מלאכותית, תהליך שמטרתו לשפר את האופן שבו מודלים של בינה מלאכותית מגיבים לבקשות.",
+    "category": "עסקים (מיזוגים, רכישות ועוד)",
+    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "published": "2026-05-29T17:27:13",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "8451148039909117370",
+    "title": "הרחבת AI ארגוני בטוח עם מסגרות ממשל של OpenAI",
+    "original_title": "Scaling safe enterprise AI with OpenAI governance frameworks",
+    "summary": "מסגרות הממשל החדשות של OpenAI מציעות למנהיגים ארגוניים תבנית מובנית להרחבת פריסות AI בטוחות ותואמות ברחבי העולם. המסגרת Frontier Governance Framework (FGF) מתעדת כיצד הארגון מתמודד עם הערכת סיכונים מערכתית והפחתתם.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/",
+    "published": "2026-05-29T16:24:58",
+    "source": "AI News"
+  },
+  {
+    "id": "5506520879487751332",
+    "title": "סקוט וו מ-Cognition אומר שסוכני קוד מבוססי AI לא צריכים להחליף בני אדם",
+    "original_title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "summary": "סקוט וו, מתכנת מפורסם ומייסד Cognition, טוען כי סוכני קוד מבוססי AI כמו Devin, שפותחו על ידי החברה, אינם נועדו להחליף מתכנתים אנושיים אלא לשמש ככלי עזר לשיפור תהליכי פיתוח תוכנה.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "published": "2026-05-29T16:13:47",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "3071591037595779644",
+    "title": "האם למנכ\"ל שלך יש פסיכוזת AI? אהרון לוי חושב שלרובם יש",
+    "original_title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+    "summary": "אהרון לוי, מייסד Box, טוען כי מנהלים בכירים רבים סובלים מ'פסיכוזת AI', מצב שבו הם מאמינים כי בינה מלאכותית יכולה להחליף משרות מבלי להבין באמת את מהות העבודה. הוא מציין דוגמאות כמו פיטורי עובדים בחברת ClickUp לטובת סוכני AI, ומדגיש את ההשפעה של בינה מלאכותית על פיטורים בתעשיית הטכנולוגיה.",
+    "category": "עסקים (מיזוגים, רכישות ועוד)",
+    "link": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+    "published": "2026-05-29T14:00:00",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "7109299962893608014",
+    "title": "מתקן האכלה לציפורים מבוסס בינה מלאכותית של Kiwibit הוא החבר החדש שלי בחצר האחורית",
+    "original_title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+    "summary": "מתקן האכלה לציפורים מבית Kiwibit משתמש בבינה מלאכותית כדי לזהות מינים שונים של ציפורים ולספק חוויה אינטראקטיבית למשתמשים, כולל מעקב ואיסוף נתונים דרך אפליקציה.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+    "published": "2026-05-29T13:00:00",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-4271845064411662600",
+    "title": "חברת שבבים זו גייסה 135 מיליון דולר בהימור שהחסם הגדול ביותר של בינה מלאכותית אינו חישוב — אלא זיכרון",
+    "original_title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+    "summary": "חברת הסטארטאפ הדרום-קוריאנית XCENA גייסה 135 מיליון דולר בהערכת שווי של 570 מיליון דולר, מתוך הימור שהחסם הגדול ביותר של בינה מלאכותית אינו כוח חישוב אלא זיכרון.",
+    "category": "עסקים (מיזוגים, רכישות ועוד)",
+    "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+    "published": "2026-05-29T12:00:00",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-4156631859396240808",
+    "title": "Anthropic משיקה את Claude Opus 4.8",
+    "original_title": "Anthropic releases Claude Opus 4.8",
+    "summary": "חברת Anthropic השיקה את Claude Opus 4.8, גרסה משודרגת של Claude Opus 4.7, שמציעה שיפורים בתכנות, עבודה עם סוכנים, הסקת מסקנות ועבודת ידע. הפלטפורמה זמינה דרך claude.ai, Claude Code ו-API בשם claude-opus-4-8.",
+    "category": "מודלי AI",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
+    "published": "2026-05-29T10:44:00",
+    "source": "AI News"
+  },
+  {
+    "id": "1485053118406460748",
+    "title": "Google Pay מתכוננת לסוכני בינה מלאכותית עם פרוטוקול מסחר אוניברסלי",
+    "original_title": "Google Pay preps for AI agents with Universal Commerce Protocol",
+    "summary": "Google Pay מעדכנת את תשתית התשלומים שלה כדי לתמוך בגל עסקאות עתידי שמבוצע על ידי סוכנים מבוססי בינה מלאכותית. העדכונים כוללים פרוטוקול מסחר אוניברסלי וארכיטקטורת שרת חדשה, שמציבים את Google Pay כמרכז לניהול רכישות שמבוצעות על ידי סוכנים אוטונומיים במקום משתמשים אנושיים.",
+    "category": "עסקים (מיזוגים, רכישות ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
+    "published": "2026-05-28T14:55:43",
+    "source": "AI News"
+  },
+  {
+    "id": "-206030511444101361",
+    "title": "ליגת ה-NBA מתכננת מערכת AI לקריאות אוטומטיות של יציאה מגבולות",
+    "original_title": "NBA plans AI system for automatic out-of-bounds calls",
+    "summary": "ליגת ה-NBA מתכננת להכניס מערכת אוטומטית להחלטות שיפוט מסוימות, כולל קריאות של יציאה מגבולות המגרש. המערכת תשתמש בבינה מלאכותית ובמצלמות הממוקמות סביב המגרש כדי לקבוע למי הכדור שייך. המהלך הושווה לטכנולוגיית Hawk-Eye המשמשת לקריאות קו בטניס.",
+    "category": "מודלי AI",
+    "link": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
+    "published": "2026-05-28T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-8427137191094332654",
+    "title": "גוגל משלבת מודעות תצוגה בפלטפורמת Demand Gen המונעת על ידי AI",
+    "original_title": "Google folds Display Ads into AI-first Demand Gen platform",
+    "summary": "גוגל משלבת את מודעות התצוגה שלה בפלטפורמת Demand Gen המונעת על ידי AI, מה שמסמן את סיומו של מודל פרסום דיגיטלי ותיק. רשת התצוגה של גוגל (GDN) הייתה חלק מרכזי באינטרנט הפתוח במשך כמעט עשרים שנה, והמשווקים הסתמכו עליה כדי למקד מיקומים, להציע הצעות לקהלים ולבצע בדיקות A/B.",
+    "category": "עסקים",
+    "link": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
+    "published": "2026-05-27T13:12:06",
+    "source": "AI News"
+  },
+  {
+    "id": "8978036890484523810",
+    "title": "חקר היתרונות של בוטי בינה מלאכותית למסחר בשוק המט\"ח",
+    "original_title": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
+    "summary": "המאמר עוסק בשימוש בבוטים מבוססי בינה מלאכותית למסחר בשוק המט\"ח. הוא מדגיש כיצד מערכות אוטומטיות מאפשרות סחר מדויק ומהיר יותר, תוך שימוש בנתונים וחוקים ברורים לניהול כניסות ויציאות, מה שמסייע להתמודד עם תנודתיות השוק בצורה ממושמעת יותר.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/",
+    "published": "2026-05-27T12:38:44",
+    "source": "AI News"
+  },
+  {
+    "id": "-6146136133175868485",
+    "title": "מערכות AI אוטונומיות בוחנות רגולציה בסביבות פיזיות",
+    "original_title": "Autonomous AI systems test governance in physical environments",
+    "summary": "מערכות AI אוטונומיות מתחילות לפעול מעבר לסביבות תוכנה ולעבור למחסנים, רשתות משלוחים ומרחבים ציבוריים. התפתחות זו מעלה שאלות בנוגע להתאמת מסגרות הרגולציה הקיימות למערכות הפועלות בסביבות פיזיות, שכן רוב המסגרות הנוכחיות מתמקדות בנזקים מקוונים ותוצרי מודלים כמו הטיות, מידע שגוי ותוכן מזיק.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+    "published": "2026-05-26T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-1426121470902702613",
+    "title": "OpenAI פותחת מעבדת AI בסינגפור בזמן ש-IMDA מעדכנת את מסגרת ה-AI",
+    "original_title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
+    "summary": "OpenAI תפתח את מעבדת ה-AI הראשונה שלה מחוץ לארה\"ב בסינגפור, במסגרת שותפות חדשה עם משרד הפיתוח הדיגיטלי והמידע. היוזמה, שנקראת OpenAI for Singapore, הוכרזה בכנס ATx ומגובה בהשקעה של מעל 300 מיליון דולר סינגפורי.",
+    "category": "עסקים",
+    "link": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
+    "published": "2026-05-22T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-8391772206593075101",
     "title": "הבינה המלאכותית של סין מיפתה את כל רשת האנרגיה המתחדשת שלה. הנה למה שאר העולם צריך לשים לב",
     "original_title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
-    "summary": "בינה מלאכותית בסין מיפתה את כל רשת האנרגיה המתחדשת של המדינה, מה שמדגיש את הפוטנציאל של AI בניהול משאבי אנרגיה בצורה יעילה. המהלך הזה חשוב במיוחד לאור העלייה בצריכת החשמל על ידי AI, שמאתגרת את יכולות הרשתות הקיימות בעולם.",
+    "summary": "סין השתמשה בבינה מלאכותית למיפוי מלא של רשת האנרגיה המתחדשת שלה. המהלך מדגיש את הפוטנציאל של AI בניהול משאבי אנרגיה בצורה יעילה יותר, במיוחד לנוכח העלייה בצריכת החשמל על ידי מרכזי נתונים וכלי AI ברחבי העולם.",
     "category": "פרויקטים ואלגוריתמים מעניינים",
     "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
     "published": "2026-05-22T10:00:00",
     "source": "AI News"
   },
   {
-    "id": "-1095622063711784545",
-    "title": "מאסק וצוקרברג שכנעו את טראמפ לבטל צו נשיאותי בנושא בינה מלאכותית",
+    "id": "-5226744833895688445",
+    "title": "מאסק וצוקרברג שכנעו את טראמפ לבטל צו נשיאותי על בינה מלאכותית",
     "original_title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
-    "summary": "נשיא ארצות הברית דונלד טראמפ ביטל צו נשיאותי מתוכנן בנושא בינה מלאכותית, לאחר שיחות עם אילון מאסק ומארק צוקרברג. הצו נועד להתמודד עם התחרות מול סין, אך הובעו חששות כי הוא עלול לפגוע ביתרון התחרותי של ארצות הברית.",
+    "summary": "נשיא ארצות הברית דונלד טראמפ ביטל צו נשיאותי מתוכנן בנושא בינה מלאכותית, לאחר שיחות עם אילון מאסק ומארק צוקרברג. הצו, שנדחה מספר פעמים, נועד לקדם את התחרותיות של ארצות הברית מול סין בתחום הבינה המלאכותית, אך הובעו חששות שהוא עלול לפגוע ביתרון האמריקאי.",
     "category": "רגולציה, אבטחה ופרטיות",
     "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
     "published": "2026-05-22T09:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-4882003509282291517",
-    "title": "Spotify ו-Universal Music חתמו על הסכם המאפשר יצירת גרסאות כיסוי ורמיקסים באמצעות AI",
-    "original_title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-    "summary": "Spotify משתפת פעולה עם Universal Music Group כדי לאפשר למנויי פרימיום ליצור גרסאות כיסוי ורמיקסים של שירים באמצעות AI, כאשר אמנים משתתפים יקבלו חלק מההכנסות.",
-    "category": "עסקים",
-    "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-    "published": "2026-05-21T19:45:00",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "-1550868624044447409",
-    "title": "טראמפ מעכב צו נשיאותי על אבטחת בינה מלאכותית, ואומר שהנוסח 'יכול היה להיות מכשול'",
-    "original_title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-    "summary": "הנשיא טראמפ עיכב את החתימה על צו נשיאותי שהיה מחייב בדיקות אבטחה ממשלתיות למודלים של בינה מלאכותית לפני שחרורם, בטענה לאי שביעות רצון מנוסח הצו.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-    "published": "2026-05-21T17:30:45",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "7557936242814120097",
-    "title": "השבב Vera של Nvidia הוא ההימור בשווי 200 מיליארד דולר שג'נסן הואנג לא רוצה שתתעלמו ממנו",
-    "original_title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
-    "summary": "שבב ה-Vera של Nvidia הוא הימור משמעותי בשווי 200 מיליארד דולר שמנכ\"ל החברה, ג'נסן הואנג, לא רוצה שתתעלמו ממנו. השבב, שמוזכר בהקשר של ביצועי החברה המצוינים ברבעון הראשון של השנה, עשוי להיות גורם מרכזי בהובלת טכנולוגיות בינה מלאכותית וביצועי מחשוב מתקדמים.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
-    "published": "2026-05-21T08:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "4247383793475980873",
-    "title": "עליבאבא מעצבת שבבי AI סביב סוכנים, וזה משנה את מהות המרוץ",
-    "original_title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-    "summary": "עליבאבא חשפה מעבד AI חדש בשם Zhenwu M890, שתוכנן במיוחד עבור סוכני AI. המעבד מגיע יחד עם מפת דרכים רב-שנתית בתחום הסיליקון ומודל שפה גדול חדש, מה שמעיד על כך שהחברה בונה מערך AI משולב במקום פשוט למלא פערים שנוצרו בעקבות מגבלות הייצוא של ארה\"ב.",
-    "category": "מודלי AI",
-    "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-    "published": "2026-05-20T10:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "1366404941374993133",
-    "title": "חסמים ותוכניות דרכים ל-AI בארגונים, אבטחה ו-AI פיזי: היום השני ב-TechEx",
-    "original_title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
-    "summary": "ביום השני של כנס TechEx צפון אמריקה, התקיים דיון מעמיק על חסמים ותוכניות דרכים לשילוב AI בארגונים. הדיונים התמקדו באתגרים כמו 'בית הקברות של AI', שבו פרויקטים מצליחים בפיילוט אך לא מצליחים להתרחב, וכן בנושאים של אבטחה ושימושים פיזיים של AI.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
-    "published": "2026-05-19T19:18:00",
-    "source": "AI News"
-  },
-  {
-    "id": "6399054571444366378",
-    "title": "עסקת Nvidia H200 עם סין שרדה את פסגת טראמפ-שי – אך לא כפי שציפו",
-    "original_title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
-    "summary": "המאמר עוסק בעסקת Nvidia H200 עם סין, שנפגעה בעקבות מגבלות על ייצוא שבבים שהוטלו על ידי ארצות הברית. המאמר מתאר כיצד המגבלות נותרו בתוקף גם לאחר פסגת טראמפ-שי, למרות הציפיות לשינוי. מדובר בנושא הקשור לרגולציה ולשליטה על טכנולוגיות מתקדמות.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
-    "published": "2026-05-19T10:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-7244006225738661702",
-    "title": "בינה מלאכותית היא עניין של כוח, תשתיות ואבטחה: TechEx North America",
-    "original_title": "AI is a matter of power, infrastructure and security: TechEx North America",
-    "summary": "הכנס TechEx North America הדגיש את החשיבות של כוח מחשוב, תשתיות ואבטחה בהקשר של בינה מלאכותית, במיוחד עבור מקבלי החלטות בארגונים. הדוברים והמציגים הציגו תובנות על האתגרים וההזדמנויות בתחום זה.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
-    "published": "2026-05-19T01:36:26",
-    "source": "AI News"
-  },
-  {
-    "id": "117420038969832324",
-    "title": "אמזון משיקה את Alexa for Shopping כאשר Rufus עובר מאחורי הקלעים",
-    "original_title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
-    "summary": "אמזון השיקה את Alexa for Shopping, שמשלבת את צ'אטבוט הקניות Rufus עם Alexa+ באפליקציה, באתר ובמכשירי Echo Show. העוזרת יכולה לענות על שאלות מוצרים, להשוות פריטים, לעקוב אחר מחירים ולתמוך בתזכורות קניות, כולל פעולות מתוזמנות ורכישות אוטומטיות.",
-    "category": "מודלי AI",
-    "link": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
-    "published": "2026-05-18T10:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "1631859510632174648",
-    "title": "דלוייט: להרחיב 'אינטליגנציה אוטונומית' לצמיחה אמיתית",
-    "original_title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
-    "summary": "מנהיגים ארגוניים צריכים להתקדם מעבר ליישומים גנרטיביים וליישם 'אינטליגנציה אוטונומית' כדי להשיג צמיחה אמיתית. בעוד שיצירת טקסט או סיכום תקשורת פנימית מספקים שיפורים מקומיים בפרודוקטיביות, יכולות אלו לרוב אינן משנות את מבנה העלויות או ההכנסות של ארגון גדול. כעת, ארגונים מתמקדים בפריסת מערכות המסוגלות לביצוע עצמאי.",
-    "category": "מודלי AI",
-    "link": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
-    "published": "2026-05-15T15:02:00",
     "source": "AI News"
   }
 ]
